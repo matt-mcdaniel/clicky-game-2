@@ -1,0 +1,23 @@
+{
+  "name": "clicky-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steph48964/Clicky-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steph48964/Clicky-Game/issues"
+  },
+  "homepage": "https://github.com/Steph48964/Clicky-Game#readme"
+}
